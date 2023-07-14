@@ -1,6 +1,7 @@
 # GrubDash
 
 In this project I completed the following objectives:
+
 -Running tests from the command line
 
 -Using common middleware packages
